@@ -1,0 +1,13 @@
+body{
+	background: url(../images/bg.gif) repeat-x;
+}
+
+#footer{
+	background-color:  #616464;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+hr{
+	border-top: 1px solid black;
+}
